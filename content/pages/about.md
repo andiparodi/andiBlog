@@ -1,6 +1,6 @@
 ---
 title: Sobre mí
-image: /images/deegan_wallace.jpg
+image: /images/avatar comprimidio.jpg
 image_alt: Mi avatar
 seo:
   title: About Us
