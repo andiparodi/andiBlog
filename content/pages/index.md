@@ -12,6 +12,13 @@ sections:
       - label: Contáctame
         url: /contact
         style: button
+  - title: Últimos Proyectos
+    section_id: lorem-ipsum
+    layout_style: tiles
+    projects_number: 4
+    view_all_label: Ver más
+    view_all_url: /portfolio/
+    type: section_portfolio
   - section_id: latest-posts
     type: section_posts
     title: Lo último del Blog
@@ -21,13 +28,6 @@ sections:
       - label: Ver Blog
         url: blog
         style: button
-  - title: Últimos Proyectos
-    section_id: lorem-ipsum
-    layout_style: tiles
-    projects_number: 4
-    view_all_label: Ver más
-    view_all_url: /portfolio/
-    type: section_portfolio
 seo:
   title: Andi Parodi
   description: Andi Parodi Blog y Portfolio
