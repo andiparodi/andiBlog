@@ -30,7 +30,7 @@ seo:
       relativeUrl: true
 layout: page
 subtitle: >-
-  Me llamo Andrés, soy desarrollador frontend, me apasiona el mundo de la
+  Me llamo Andrés, curioso y aprendiz del frontend, me apasiona el mundo de la
   tecnología y el diseño. Soy autodidacta e intento aprender cada día un poco
   más.
 ---
