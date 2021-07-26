@@ -1,44 +1,44 @@
 ---
-title: Contact
+title: Contacto
 hide_title: false
 sections:
   - section_id: contact-form
     type: section_form
-    content: >-
-      Hi there! Thank you so much for your interest in working together. Please
-      fill the contact form below or send us an email at
-      [example@example.com](mailto:example@example.com).
+    content: >
+      ¡Hola! Si deseas ponerte en contacto puedes rellenar el siguiente
+      formulario o enviarme un correo a andiparodi.20@gmail.com.
     form_id: contactForm
     form_action: /thank-you
     form_fields:
       - input_type: text
         name: name
-        label: Name
-        default_value: Your name
+        label: Nombre
+        default_value: Tu nombre
         is_required: true
       - input_type: email
         name: email
-        label: Email
-        default_value: Your email address
+        label: Correo
+        default_value: Tu dirección de correo
         is_required: true
       - input_type: select
-        name: subject
-        label: Subject
-        default_value: Please select
+        name: Asunto
+        label: Asunto
+        default_value: Selecciona un asunto
         options:
-          - Error on the site
-          - Sponsorship
-          - Other
+          - Contacto
+          - Error o bug en el sitio
+          - Idea para el sitio
+          - Otro
       - input_type: textarea
-        name: message
-        label: Message
-        default_value: Your message
+        name: mensaje
+        label: Mensaje
+        default_value: Tu mensaje
       - input_type: checkbox
         name: consent
         label: >-
-          I understand that this form is storing my submitted information so I
-          can be contacted.
-    submit_label: Send Message
+          Entiendo que este formulario esta almacenando mi información enviada
+          para que puedan ser contactados.
+    submit_label: Enviar
 seo:
   title: Contact
   description: This is the contact page
