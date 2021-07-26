@@ -51,12 +51,25 @@
 .post-image {
   border: 0;
   display: block;
-  margin-bottom: 1.66667em;
+  max-width: 750px;
+  margin: 0 auto 1.66667em;
 
   img {
     width: 100%;
   }
 }
+
+.post-image-about{
+  border: 0;
+  display: block;
+  width: 750px;
+  margin: 0 auto 1.66667em;
+  
+  img{
+    max-width: 250px;
+  }
+}
+
 
 /* Post feed */
 .post-thumbnail {
