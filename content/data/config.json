@@ -1,14 +1,14 @@
 {
-    "title": "Stackbit Exto Theme",
+    "title": "Andi Parodi",
     "path_prefix": "/",
     "color_scheme": "light",
     "accent_color": "pink",
     "header": {
-        "title": "Exto",
+        "title": "Andp",
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Home",
+                "label": "Inicio",
                 "url": "/",
                 "style": "link"
             },
@@ -23,54 +23,51 @@
                 "style": "link"
             },
             {
-                "label": "Style Guide",
-                "url": "/style-guide/",
-                "style": "link"
-            },
-            {
-                "label": "About",
+                "label": "Sobre mi",
                 "url": "/about/",
                 "style": "link"
             },
             {
-                "label": "Contact",
+                "label": "Contacto",
                 "url": "/contact/",
                 "style": "link"
             }
         ]
     },
     "footer": {
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=exto&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>",
+        "content": "Andi Parodi &copy; 2021. Todos los derechos reservados.  <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Política de privacidad</a>. ",
         "has_social": true,
         "social_links": [
             {
-                "label": "Twitter",
-                "url": "https://twitter.com/",
-                "style": "icon",
-                "icon": "twitter",
-                "new_window": true
-            },
-            {
-                "label": "Instagram",
-                "url": "https://www.instagram.com/",
-                "style": "icon",
-                "icon": "instagram",
-                "new_window": true
-            },
-            {
-                "label": "Dribbble",
-                "url": "https://dribbble.com/",
-                "style": "icon",
-                "icon": "dribbble",
-                "new_window": true
-            },
-            {
-                "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
-                "style": "icon",
-                "icon": "linkedin",
-                "new_window": true
-            }
+              "label": "Twitter",
+              "url": "https://twitter.com/andiparodiv",
+              "style": "icon",
+              "icon": "twitter",
+              "new_window": true
+          },
+          {
+              "label": "github",
+              "url": "https://github.com/andiparodi",
+              "style": "icon",
+              "icon": "github",
+              "new_window": false,
+              "no_follow": false,
+              "type": "action"
+          },
+          {
+              "label": "Instagram",
+              "url": "https://www.instagram.com/andiparodi",
+              "style": "icon",
+              "icon": "instagram",
+              "new_window": true
+          },
+          {
+              "label": "LinkedIn",
+              "url": "https://www.linkedin.com/in/andiparodi/",
+              "style": "icon",
+              "icon": "linkedin",
+              "new_window": true
+          }
         ]
     },
     "domain": "https://parallel-mint-ebc5f.netlify.app"

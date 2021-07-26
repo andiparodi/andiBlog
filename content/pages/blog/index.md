@@ -1,6 +1,8 @@
 ---
 title: Blog
-subtitle: 'News, tips and highlights'
+subtitle: >-
+  Estos blogspost son parte de mi aprendizaje, espero que también puedan
+  servirte.
 hide_title: false
 col_number: three
 seo:
