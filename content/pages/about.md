@@ -32,7 +32,7 @@ layout: page
 subtitle: >-
   Me llamo Andrés, soy desarrollador frontend, me apasiona el mundo de la
   tecnología y el diseño. Soy autodidacta e intento aprender cada día un poco
-  más
+  más.
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus sagittis enim est, et semper lectus hendrerit ut.
 
