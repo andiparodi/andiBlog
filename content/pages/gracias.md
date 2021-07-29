@@ -2,7 +2,7 @@
 title: Gracias
 hide_title: true
 sections:
-  - title: lorem-ipsum
+  - title: Gracias
     section_id: lorem-ipsum
     content: >-
       ## Lorem ipsum
