@@ -34,7 +34,7 @@ seo:
       relativeUrl: true
 layout: project
 ---
-[***Github***](https://github.com/andiparodi/PlatziVideoProyect) | [***Sitio***](https://andiproyecto6.netlify.app/)
+# [***Github***](https://github.com/andiparodi/PlatziVideoProyect) | [***Sitio***](https://andiproyecto6.netlify.app/)
 
 Proyecto realizado en el curso [Frontend Developer](https://platzi.com/clases/frontend-developer/) de la escuela de Desarrollo Web en [Platzi](https://platzi.com/home).
 Maquetación con HTML y CSS, aplicación de SASS.
