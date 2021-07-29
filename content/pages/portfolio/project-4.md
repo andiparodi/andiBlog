@@ -34,6 +34,6 @@ seo:
       relativeUrl: true
 layout: project
 ---
-[***Github***](https://github.com/andiparodi/Maquetacion-Blog) | [***Sitio***](https://andiproyecto4.netlify.app/)
+#### [***Github***](https://github.com/andiparodi/Maquetacion-Blog) | [***Sitio***](https://andiproyecto4.netlify.app/)
 
 Proyecto realizado en el curso [Práctico de Maquetación en CSS](https://platzi.com/clases/practico-css/) de la escuela de Desarrollo Web en [Platzi](https://platzi.com/home). Poniendo en práctica lo aprendido sobre HTML y CSS en cursos anteriores, utilizando CSS Grid y Flexbox en el layout.
