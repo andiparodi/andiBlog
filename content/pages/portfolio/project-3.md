@@ -4,7 +4,7 @@ subtitle: JavaScript
 date: '2019-04-08'
 thumb_image: /images/pleasant-jupiter.png
 thumb_image_alt: A yellow retro telephone on a yellow background
-image: images/3.jpg
+image: /images/simonDicePortada.png
 image_alt: A yellow retro telephone on a yellow background
 seo:
   title: Project Title 3
