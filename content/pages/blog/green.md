@@ -39,5 +39,6 @@ seo:
       value: images/5.jpg
       relativeUrl: true
 layout: post
+excerpt: Próximamente primer blogpost.
 ---
 Próximamente primer blogpost.
