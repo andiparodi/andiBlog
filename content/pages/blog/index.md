@@ -1,8 +1,8 @@
 ---
 title: Blog
 subtitle: >-
-  Estos blogspost son parte de mi aprendizaje, espero que también puedan
-  servirte.
+  En estos blogspost comparto parte de mi experiencia y aprendizajes, espero que
+  puedan servirte.
 hide_title: false
 col_number: three
 seo:
