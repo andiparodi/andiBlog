@@ -30,7 +30,7 @@ seo:
       relativeUrl: true
 layout: page
 ---
-Mi nombre es Andrés, soy de Argentina aunque vivo en Valencia, España.
+# Un poco sobre mi
 
 Estudié gestión de energías renovables, si bien es un tema que me interesa, con el tiempo me di cuenta que me apasiona aprender sobre cómo funciona el mundo de la tecnología.
 
