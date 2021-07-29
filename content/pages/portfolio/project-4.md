@@ -4,7 +4,7 @@ subtitle: HTML | CSS
 date: '2019-02-26'
 thumb_image: /images/proyectoBlogPortada.png
 thumb_image_alt: A table tennis racket on a pink background
-image: images/4.jpg
+image: /images/proyectoBlogPortada.png
 image_alt: A table tennis racket on a pink background
 seo:
   title: Project Title 4
