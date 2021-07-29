@@ -2,7 +2,7 @@
 title: Project Title 3
 subtitle: Optional Project Subtitle
 date: '2019-04-08'
-thumb_image: images/3_thumb.jpg
+thumb_image: /images/simonDicePortada.png
 thumb_image_alt: A yellow retro telephone on a yellow background
 image: images/3.jpg
 image_alt: A yellow retro telephone on a yellow background
