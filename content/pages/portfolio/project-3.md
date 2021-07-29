@@ -1,5 +1,5 @@
 ---
-title: Project Title 3
+title: Simón Dice
 subtitle: Optional Project Subtitle
 date: '2019-04-08'
 thumb_image: /images/simonDicePortada.png
