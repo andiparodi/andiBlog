@@ -1,5 +1,5 @@
 ---
-title: ¡Gracias!
+title: Blog
 date: '0001-01-01'
 thumb_image: /images/proximamente (1).jpg
 thumb_image_alt: A white gamepad on a green background
