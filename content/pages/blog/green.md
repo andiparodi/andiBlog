@@ -1,6 +1,5 @@
 ---
 title: ¡Gracias!
-subtitle: ...
 date: '2021-07-29'
 thumb_image: /images/proximamente (1).jpg
 thumb_image_alt: A white gamepad on a green background
