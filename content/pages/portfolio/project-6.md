@@ -4,7 +4,7 @@ subtitle: HTML | CSS
 date: '2018-12-18'
 thumb_image: /images/frontendStorePortada.png
 thumb_image_alt: A handheld game console on a yellow background
-image: images/6.jpg
+image: /images/frontendStorePortada.png
 image_alt: A handheld game console on a yellow background
 seo:
   title: Project Title 6
