@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Gracias
 hide_title: true
 sections: []
 seo:
