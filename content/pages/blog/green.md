@@ -1,6 +1,6 @@
 ---
 title: Próximamente contenido en blogposts
-subtitle: 'Apparently, green is my favorite color.'
+subtitle: ...
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
   incididunt ut labore et dolore magna aliqua. Ac ut consequat semper viverra
