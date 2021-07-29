@@ -5,7 +5,7 @@ date: '2019-05-10'
 thumb_image: /images/portadaPlatziVideo.png
 thumb_image_alt: Proyecto Platzi Video
 image: /images/portadaPlatziVideo.png
-image_alt: 'White, black, and red shoe sole'
+image_alt: Proyecto Platzi Video
 seo:
   title: Project Title 1
   description: This is the project 1 description
