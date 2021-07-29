@@ -1,10 +1,6 @@
 ---
 title: Próximamente contenido en blogposts
 subtitle: ...
-excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-  incididunt ut labore et dolore magna aliqua. Ac ut consequat semper viverra
-  nam libero justo laoreet sit.
 date: '2021-07-29'
 thumb_image: /images/proximamente (1).jpg
 thumb_image_alt: A white gamepad on a green background
