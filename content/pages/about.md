@@ -40,7 +40,7 @@ Todo lo que aprendo lo hago a través de **Internet**. Me siento super agradecid
 
 También me gusta aprender sobre desarrollo personal. Disfruto mucho hacer ejercicio y comer bien.  Me encanta trabajar el huerto y estar en contacto con la naturaleza 🧘‍♂️.
 
-Soy una persona muy curiosa y algo autoexigente.
+Soy una persona muy curiosa y autoexigente.
 
 Y aquí... contento de enfrentarme a nuevos desafíos, de aprender día a día, e intentar entender el mundo un poco mejor . 🙂
 
