@@ -1,6 +1,6 @@
 ---
 title: Simón Dice
-subtitle: Optional Project Subtitle
+subtitle: JavaScript
 date: '2019-04-08'
 thumb_image: /images/pleasant-jupiter.png
 thumb_image_alt: A yellow retro telephone on a yellow background
