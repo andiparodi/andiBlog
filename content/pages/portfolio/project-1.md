@@ -3,7 +3,7 @@ title: Proyecto Platzi Video
 subtitle: CSS | HTML
 date: '2019-05-10'
 thumb_image: /images/portadaPlatziVideo.png
-thumb_image_alt: 'White, black, and red shoe sole'
+thumb_image_alt: Proyecto Platzi Video
 image: /images/portadaPlatziVideo.png
 image_alt: 'White, black, and red shoe sole'
 seo:
