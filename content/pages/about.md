@@ -30,12 +30,8 @@ seo:
       relativeUrl: true
 layout: page
 subtitle: >-
-  Me llamo Andrés, soy curioso y aprendiz del desarrollo frontend, me apasiona
-  el mundo de la tecnología y el diseño. Soy autodidacta e intento aprender cada
-  día un poco más.
+ 
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus sagittis enim est, et semper lectus hendrerit ut.
+> Para hacer cualquier cosa bien debes tener la humildad para tropezar, para seguir tu intuición, para perderte, para parecer torpe. Ten el coraje de empezar algo y hacerlo mal. Vence el miedo de no verte capaz de intentar  algo nuevo. - Epicteto
 
-> The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
-
-*Thank You for reading!*
+*¡Gracias por leer!*
