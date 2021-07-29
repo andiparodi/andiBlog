@@ -46,6 +46,6 @@ Y aquí... contento de enfrentarme a nuevos desafíos, de aprender día a día, 
 
 > Para hacer cualquier cosa bien debes tener la humildad para tropezar, para seguir tu intuición, para perderte, para parecer torpe. Ten el coraje de empezar algo y hacerlo mal. Vence el miedo de no verte capaz de intentar  algo nuevo. - Epicteto
 
-\*\*
+**
 
 *¡Gracias por leer!*
