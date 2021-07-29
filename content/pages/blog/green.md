@@ -43,4 +43,4 @@ subtitle: >-
   En estos blogspost comparto parte de mi experiencia y aprendizajes, espero que
   puedan servirte.
 ---
-¡Gracias por contactarte conmigo! Responderé pronto.
+Próximamente primer blogpost.
