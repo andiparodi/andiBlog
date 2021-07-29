@@ -34,8 +34,6 @@ seo:
       relativeUrl: true
 layout: project
 ---
-[***Github***](https://github.com/andiparodi/Batatabit-Responsive) | [***Sitio***](https://andiproyecto3.netlify.app/)
-
+#### [***Github***](https://github.com/andiparodi/Batatabit-Responsive) | [***Sitio***](https://andiproyecto3.netlify.app/)
 
 Proyecto realizado en el curso de [Responsive Design: Maquetación Mobile First](https://platzi.com/clases/mobile-first/) de la escuela de Desarrollo Web en [Platzi](https://platzi.com/home). Maquetación con HTML y CSS, aplicando los conocimientos de responsive design y mobile first para que el proyecto se adapte a cualquier dispositivo de los usuarios.
-
