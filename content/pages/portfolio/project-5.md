@@ -34,7 +34,6 @@ seo:
       relativeUrl: true
 layout: project
 ---
-[***Github***](https://github.com/andiparodi/maquetacion-Freelancer) | [***Sitio***](https://andiproyecto1.netlify.app/)
-
+#### [***Github***](https://github.com/andiparodi/maquetacion-Freelancer) | [***Sitio***](https://andiproyecto1.netlify.app/)
 
 Maquetación de landing page para poner en práctica conocimientos aprendidos con HTML y CSS.
