@@ -4,7 +4,7 @@ subtitle: HTML | CSS
 date: '2019-01-05'
 thumb_image: /images/freelancerPortada.png
 thumb_image_alt: A white gamepad on a green background
-image: images/5.jpg
+image: /images/freelancerPortada.png
 image_alt: A white gamepad on a green background
 seo:
   title: Project Title 5
