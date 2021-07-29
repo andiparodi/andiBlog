@@ -1,6 +1,6 @@
 ---
 title: Freelancer
-subtitle: Optional Project Subtitle
+subtitle: HTML | CSS
 date: '2019-01-05'
 thumb_image: /images/freelancerPortada.png
 thumb_image_alt: A white gamepad on a green background
