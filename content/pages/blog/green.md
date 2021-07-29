@@ -39,8 +39,6 @@ seo:
 layout: post
 excerpt: Próximamente primer blogpost.
 image: /images/oval-sunflower.jpg
-subtitle: >-
-  En estos blogspost comparto parte de mi experiencia y aprendizajes, espero que
-  puedan servirte.
+subtitle: ...
 ---
 Próximamente primer blogpost.
