@@ -1,5 +1,5 @@
 ---
-title: 'Freelancer '
+title: Freelancer landing
 subtitle: Optional Project Subtitle
 date: '2019-01-05'
 thumb_image: /images/freelancerPortada.png
