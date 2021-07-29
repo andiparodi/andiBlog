@@ -39,5 +39,6 @@ seo:
       relativeUrl: true
 layout: post
 excerpt: Próximamente primer blogpost.
+image: /images/thank-you.jpg
 ---
 Próximamente primer blogpost.
