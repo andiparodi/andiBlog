@@ -34,7 +34,6 @@ seo:
       relativeUrl: true
 layout: project
 ---
-[***Github***](https://github.com/andiparodi/SimonDice) | [***Sitio***](https://andiproyecto5.netlify.app/)
-
+#### [***Github***](https://github.com/andiparodi/SimonDice) | [***Sitio***](https://andiproyecto5.netlify.app/)
 
 Proyecto realizado en el curso de Fundamentos de JavaScript en [Platzi](https://platzi.com/home). Se puso en práctica lo aprendido en este lenguaje para programar el famoso juego "Simón Dice".
