@@ -61,15 +61,24 @@
 
 .post-image-about{
   border: 0;
-  display: block;
-  width: 750px;
+  display: flex;
+  gap: 40px;
+  align-items: center;
+  max-width: 750px;
   margin: 0 auto 1.66667em;
   
   img{
-    max-width: 250px;
+    max-width: 200px;
+    border-radius: 50%;
   }
 }
 
+@media only screen and (max-width: 541px) {
+  .post-image-about{
+    display: flex;
+    flex-direction: column;
+  }
+}
 
 /* Post feed */
 .post-thumbnail {
