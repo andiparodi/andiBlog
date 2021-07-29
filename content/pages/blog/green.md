@@ -38,6 +38,6 @@ seo:
       relativeUrl: true
 layout: post
 excerpt: Próximamente primer blogpost.
-image: /images/thank-you.jpg
+image: /images/oval-sunflower.jpg
 ---
 ¡Gracias por contactarte conmigo! Responderé pronto.
