@@ -40,4 +40,4 @@ layout: post
 excerpt: Próximamente primer blogpost.
 image: /images/thank-you.jpg
 ---
-Próximamente primer blogpost.
+¡Gracias por contactarte conmigo! Responderé pronto.
