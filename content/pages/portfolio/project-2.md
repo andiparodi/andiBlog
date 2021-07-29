@@ -1,6 +1,6 @@
 ---
 title: Batatabit
-subtitle: Optional Project Subtitle
+subtitle: HTML | CSS
 date: '2019-04-30'
 thumb_image: /images/batatabitWebPortada.png
 thumb_image_alt: An orange on a blue background
