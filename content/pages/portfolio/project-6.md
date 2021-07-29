@@ -1,6 +1,6 @@
 ---
 title: Frontend Store
-subtitle: Optional Project Subtitle
+subtitle: HTML | CSS
 date: '2018-12-18'
 thumb_image: /images/frontendStorePortada.png
 thumb_image_alt: A handheld game console on a yellow background
