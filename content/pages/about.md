@@ -29,8 +29,7 @@ seo:
       value: images/about.jpg
       relativeUrl: true
 layout: page
-subtitle: >-
- 
+subtitle: erfwer
 ---
 > Para hacer cualquier cosa bien debes tener la humildad para tropezar, para seguir tu intuición, para perderte, para parecer torpe. Ten el coraje de empezar algo y hacerlo mal. Vence el miedo de no verte capaz de intentar  algo nuevo. - Epicteto
 
