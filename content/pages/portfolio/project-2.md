@@ -7,7 +7,7 @@ thumb_image_alt: An orange on a blue background
 image: /images/batatabitWebPortada.png
 image_alt: An orange on a blue background
 seo:
-  title: Batatabit
+  title: Proyecto Batatabit
   description: This is the project 2 description
   extra:
     - name: 'og:type'
