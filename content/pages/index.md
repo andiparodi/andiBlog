@@ -52,7 +52,7 @@ seo:
     - name: 'twitter:description'
       value: Vista previa Andi Parodi
     - name: 'twitter:image'
-      value: images/exto_preview.png
+      value: /images/important-hedgehog.png
       relativeUrl: true
 layout: advanced
 ---
