@@ -2,7 +2,7 @@
 title: ¡Gracias!
 image: images/thank-you.jpg
 image_alt: Thank You Led Signage
-layout: page
+layout: project
 ---
 ¡Gracias por contactarte conmigo! Responderé pronto
 
