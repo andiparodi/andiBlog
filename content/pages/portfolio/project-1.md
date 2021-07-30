@@ -7,7 +7,7 @@ thumb_image_alt: Proyecto Platzi Video
 image: /images/portadaPlatziVideo.png
 image_alt: Proyecto Platzi Video
 seo:
-  title: PlatziVideo
+  title: Proyecto PlatziVideo
   description: This is the project 1 description
   extra:
     - name: 'og:type'
