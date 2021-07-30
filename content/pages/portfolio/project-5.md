@@ -7,7 +7,7 @@ thumb_image_alt: A white gamepad on a green background
 image: /images/freelancerPortada.png
 image_alt: A white gamepad on a green background
 seo:
-  title: Project Title 5
+  title: Proyecto Freelancer
   description: This is the project 5 description
   extra:
     - name: 'og:type'
