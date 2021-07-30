@@ -5,7 +5,7 @@ thumb_image: /images/proximamente (1).jpg
 thumb_image_alt: A white gamepad on a green background
 image_alt: A white gamepad on a green background
 seo:
-  title: Green is my favorite color
+  title: Proximamente
   description: >-
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
     tempor incididunt
