@@ -38,6 +38,13 @@ sections:
         label: >-
           Entiendo que este formulario esta almacenando mi información enviada
           para que puedan ser contactados.
+      - input_type: text
+        name: lorem-ipsum
+        label: lorem-ipsum
+        default_value: lorem-ipsum
+        options: []
+        is_required: false
+        type: form_field
     submit_label: Enviar
 seo:
   title: Contact
