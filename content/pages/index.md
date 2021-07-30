@@ -39,10 +39,10 @@ seo:
       value: Andi Parodi
       keyName: property
     - name: 'og:description'
-      value: Vista previa Andi Parodi 
+      value: Vista previa Andi Parodi
       keyName: property
     - name: 'og:image'
-      value: images/exto_preview.png
+      value: /images/portadaAndiParo.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -50,7 +50,7 @@ seo:
     - name: 'twitter:title'
       value: Andi Parodi
     - name: 'twitter:description'
-      value: Vista previa Andi Parodi 
+      value: Vista previa Andi Parodi
     - name: 'twitter:image'
       value: images/exto_preview.png
       relativeUrl: true
