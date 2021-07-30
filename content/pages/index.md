@@ -36,10 +36,10 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Exto Theme
+      value: Andi Parodi
       keyName: property
     - name: 'og:description'
-      value: The preview of the Exto theme
+      value: Vista previa Andi Parodi 
       keyName: property
     - name: 'og:image'
       value: images/exto_preview.png
@@ -48,9 +48,9 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Exto Theme
+      value: Andi Parodi
     - name: 'twitter:description'
-      value: The preview of the Exto theme
+      value: Vista previa Andi Parodi 
     - name: 'twitter:image'
       value: images/exto_preview.png
       relativeUrl: true
