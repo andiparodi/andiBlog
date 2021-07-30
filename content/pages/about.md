@@ -3,7 +3,7 @@ title: Sobre mí
 image: /images/avatar comprimidio.jpg
 image_alt: Mi avatar
 seo:
-  title: About Us
+  title: Sobre mí
   description: This is the about us page
   extra:
     - name: 'og:type'
