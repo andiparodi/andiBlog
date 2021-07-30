@@ -30,7 +30,7 @@ sections:
         style: button
 seo:
   title: Andi Parodi
-  description: Andi Parodi Blog y Portfolio
+  description: Sitio
   extra:
     - name: 'og:type'
       value: website
