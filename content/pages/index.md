@@ -33,7 +33,7 @@ seo:
   description: Andi Parodi Blog y Portfolio.
   extra:
     - name: 'og:type'
-      value: vccdgfdg
+      value: website
       keyName: property
     - name: 'og:title'
       value: Andi Parodi
