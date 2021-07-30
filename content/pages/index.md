@@ -14,7 +14,7 @@ sections:
         style: button
   - title: Últimos Proyectos
     section_id: lorem-ipsum
-    layout_style: mosaic
+    layout_style: tiles
     projects_number: 4
     view_all_label: Ver más
     view_all_url: /portfolio/
