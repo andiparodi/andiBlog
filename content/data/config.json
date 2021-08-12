@@ -35,7 +35,7 @@
         ]
     },
     "footer": {
-        "content": "Andi Parodi &copy; 2021. Todos los derechos reservados.  <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Política de privacidad</a>. ",
+        "content": "Andi Parodi &copy; 2021. Todos los derechos reservados.  <a href=\"\" target=\"_blank\" rel=\"noopener\">Política de privacidad</a>. ",
         "has_social": true,
         "social_links": [
             {
