@@ -38,7 +38,7 @@ El área que elegí fue el desarrollo **frontend**. El conocer sobre **HTML5, CS
 
 Todo lo que aprendo lo hago a través de **Internet**. Me siento super agradecido de poder tener acceso a esta maravillosa herramienta. Me gusta seguir y consultar muchos referentes en este campo, aunque [Platzi](https://platzi.com/home) es la plataforma donde pasó mas tiempo estudiando, sus rutas de aprendizaje están bien estructuradas y tienen una gran comunidad que aporta mucho valor.
 
-Soy una persona muy curiosa. También me gustan áreas como la salud y la productividad. Disfruto mucho hacer ejercicio y cocinar.  Me encanta trabajar en el huerto y estar en contacto con la naturaleza 🧘‍♂️.
+Soy una persona muy curiosa, también me gusta aprender sobre áreas como la salud la productividad. Disfruto mucho hacer ejercicio y cocinar.  Me encanta trabajar en el huerto y estar en contacto con la naturaleza 🧘‍♂️.
 
 Siempre estoy dispuesto a nuevos retos, de aprender día a día, e intentar entender el mundo un poco mejor . 🙂
 
