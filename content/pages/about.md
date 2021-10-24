@@ -42,8 +42,6 @@ Soy una persona muy curiosa, también me gusta aprender sobre áreas como la sal
 
 Siempre estoy dispuesto a nuevos retos, de aprender día a día, e intentar entender el mundo un poco mejor . 🙂
 
-Si crees que puedo serte útil no dudes en escribirme!
-
 > Para hacer cualquier cosa bien debes tener la humildad para tropezar, para seguir tu intuición, para perderte, para parecer torpe. Ten el coraje de empezar algo y hacerlo mal. Vence el miedo de no verte capaz de intentar  algo nuevo.
 >
 > \- Epicteto
