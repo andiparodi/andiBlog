@@ -32,17 +32,17 @@ layout: page
 ---
 ### Un poco sobre mi
 
-Estudié gestión de energías renovables, si bien es un tema que me interesa, con el tiempo me di cuenta que me apasiona aprender sobre cómo funciona el mundo de la tecnología.
+Soy técnico en gestión de energías renovables, y desde esa área, descubrí la importancia de la tecnología, lo que me llevo a involucrarme en el desarrollo web. Desde entonces comencé a formarme en cursos de manera autodidacta. 📚
 
-Y así tomé la decisión de comenzar a estudiar programación, y como también me gusta el diseño, el desarrollo de  **frontend**  fue lo que me llamo de primeras. Al conocer sobre **HTML5, CSS3 y JavaScript**, quede fascinado con todo lo que era posible. Y mientras más voy conociendo , mi curiosidad sobre este mundo aumenta.
+El área que elegí fue el desarrollo **frontend**. El conocer sobre **HTML5, CSS3 y JavaScript **llevó a que pueda entender el potencial que hay en la **web**. 💻
 
-Todo lo que aprendo lo hago a través de **Internet**. Me siento super agradecido de poder tener acceso a esta maravillosa herramienta. [Platzi ](https://platzi.com/home)es la plataforma donde más tiempo paso estudiando, en la que me encontré con una comunidad increíble, buenos profesores y rutas de aprendizaje que hacen más fácil el proceso.
+Todo lo que aprendo lo hago a través de **Internet**. Me siento super agradecido de poder tener acceso a esta maravillosa herramienta. Me gusta seguir y consultar muchos referentes en este campo, aunque [Platzi](https://platzi.com/home) es la plataforma donde pasó mas tiempo estudiando, sus rutas de aprendizaje están bien estructuradas y tienen una gran comunidad que aporta mucho valor.
 
-También me gusta aprender sobre desarrollo personal. Disfruto mucho hacer ejercicio y cocinar.  Me encanta trabajar el huerto y estar en contacto con la naturaleza 🧘‍♂️.
+Soy una persona muy curiosa. También me gustan áreas como la salud y la productividad. Disfruto mucho hacer ejercicio y cocinar.  Me encanta trabajar en el huerto y estar en contacto con la naturaleza 🧘‍♂️.
 
-Soy una persona muy curiosa, también autoexigente (lo cuál no se si es muy bueno😋).
+Siempre estoy dispuesto a nuevos retos, de aprender día a día, e intentar entender el mundo un poco mejor . 🙂
 
-Y aquí... contento de enfrentarme a nuevos desafíos, de aprender día a día, e intentar entender el mundo un poco mejor . 🙂
+Si crees que puedo serte útil no dudes en escribirme!
 
 > Para hacer cualquier cosa bien debes tener la humildad para tropezar, para seguir tu intuición, para perderte, para parecer torpe. Ten el coraje de empezar algo y hacerlo mal. Vence el miedo de no verte capaz de intentar  algo nuevo.
 >
