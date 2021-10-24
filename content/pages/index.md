@@ -12,7 +12,7 @@ sections:
       - label: Contáctame
         url: /contact
         style: button
-  - title: Últimos Proyectos
+  - title: Mis últimos Proyectos
     section_id: lorem-ipsum
     layout_style: tiles
     projects_number: 4
