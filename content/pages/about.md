@@ -34,7 +34,7 @@ layout: page
 
 Soy técnico en gestión de energías renovables, y desde esa área, descubrí la importancia de la tecnología, lo que me llevo a involucrarme en el desarrollo web. Desde entonces comencé a formarme en cursos de manera autodidacta. 📚
 
-El área que elegí fue el desarrollo **frontend**. El conocer sobre **HTML5, CSS3 y JavaScript **llevó a que pueda entender el potencial que hay en la **web**. 💻
+El área que elegí fue el desarrollo **frontend**. El conocer sobre **HTML5, CSS3 y JavaScript** llevó a que pueda entender el potencial que hay en la **web**. 💻
 
 Todo lo que aprendo lo hago a través de **Internet**. Me siento super agradecido de poder tener acceso a esta maravillosa herramienta. Me gusta seguir y consultar muchos referentes en este campo, aunque [Platzi](https://platzi.com/home) es la plataforma donde pasó mas tiempo estudiando, sus rutas de aprendizaje están bien estructuradas y tienen una gran comunidad que aporta mucho valor.
 
