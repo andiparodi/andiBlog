@@ -6,7 +6,7 @@ sections:
     type: section_form
     content: >
       ¡Hola! Si deseas ponerte en contacto puedes rellenar el siguiente
-      formulario o enviarme un correo a andiparodi.20@gmail.com.
+      formulario.
     form_id: contactForm
     form_action: /thank-you
     form_fields:
