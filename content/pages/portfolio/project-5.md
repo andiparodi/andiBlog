@@ -1,5 +1,5 @@
 ---
-title: Freelancer Web
+title: Freelancerr
 subtitle: HTML | CSS
 date: '2019-01-05'
 thumb_image: /images/freelancerPortada.png
