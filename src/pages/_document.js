@@ -33,6 +33,20 @@ export default class MyDocument extends Document {
         return (
             <Html {...this.helmetHtmlAttrComponents}>
                 <Head>{this.helmetHeadComponents}</Head>
+                <script async src="https://www.googletagmanager.com/gtag/js?id=G-1D0PS21K2S"></script>
+
+                <script dangerouslySetInnerHTML={{
+                  __html: `window.dataLayer = window.dataLayer || [];
+                  function gtag(){dataLayer.push(arguments);}
+                  gtag('js', new Date());
+
+                  gtag('config', 'G-1D0PS21K2S');`
+                }} /> 
+
+                <script>
+
+                </script>
+
                 <body {...this.helmetBodyAttrComponents}>
                     <Main />
                     <script src={withPrefix('js/plugins.js')} />
