@@ -1,32 +1,32 @@
 ---
 title: Sobre mí
 image: /images/avatar comprimidio.jpg
-image_alt: Mi avatar
+image_alt: Andrés Parodi imagen de perfil
 seo:
-  title: Sobre mí
+  title: Acerca de Andrés Parodi Vidal
   description: This is the about us page
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: About Us
+      value: Acerca de Andrés Parodi
       keyName: property
     - name: 'og:description'
       value: This is the about us page
       keyName: property
     - name: 'og:image'
-      value: images/about.jpg
+      value: /images/avatar comprimidio.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: About Us
+      value: Acerca de Andrés Parodi
     - name: 'twitter:description'
       value: This is the about us page
     - name: 'twitter:image'
-      value: images/about.jpg
+      value: /images/avatar comprimidio.jpg
       relativeUrl: true
 layout: page
 ---
